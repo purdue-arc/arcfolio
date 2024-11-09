@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "I work at Microsoft now!!",
+		title: "I work at Microsoft now!!!",
 		description:
 			"My work is focused on the railing system.",
 	},
