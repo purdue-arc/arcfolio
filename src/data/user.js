@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Engineer... Developer... AI...",
+		title: "I work at Microsoft now!!",
 		description:
-			"lorem ipsum dolor",
+			"My work is focused on the railing system.",
 	},
 
 	about: {
@@ -72,6 +72,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com",
 		},
+		{
+			title: "Project Lead of ...",
+			description:
+				"ROBOTS!!",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+
 	],
 };
 
